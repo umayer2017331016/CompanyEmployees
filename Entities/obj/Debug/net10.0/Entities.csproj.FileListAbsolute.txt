@@ -21,3 +21,15 @@ F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.dll
 F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\refint\Entities.dll
 F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.pdb
 F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\ref\Entities.dll
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\bin\Debug\net10.0\Entities.deps.json
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\bin\Debug\net10.0\Entities.dll
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\bin\Debug\net10.0\Entities.pdb
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.dll
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\refint\Entities.dll
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.pdb
+D:\Umayer\WebPracctice\CompanyEmployees\Entities\obj\Debug\net10.0\ref\Entities.dll

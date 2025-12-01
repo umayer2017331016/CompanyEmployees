@@ -8,4 +8,5 @@
   <Project Path="Repository/Repository.csproj" Id="40bd121e-b629-4a48-a089-d1439e30bc8d" />
   <Project Path="Service.Contracts/Service.Contracts.csproj" Id="89c4153b-e259-425b-8fd3-f143d596874d" />
   <Project Path="Service/Service.csproj" Id="63503b2e-1c2b-47d9-b153-0e22424dba2d" />
+  <Project Path="Shared/Shared.csproj" Id="45b62651-c7e5-460c-b1ff-a90a7615eed0" />
 </Solution>

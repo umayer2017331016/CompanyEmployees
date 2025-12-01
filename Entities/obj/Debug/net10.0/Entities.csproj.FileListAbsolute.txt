@@ -1,0 +1,11 @@
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\bin\Debug\net10.0\Entities.deps.json
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\bin\Debug\net10.0\Entities.dll
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\bin\Debug\net10.0\Entities.pdb
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.dll
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\refint\Entities.dll
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.pdb
+F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\ref\Entities.dll

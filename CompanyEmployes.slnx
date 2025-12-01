@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="CompanyEmployees.Presentation/CompanyEmployees.Presentation.csproj" Id="9881075a-1c63-4d42-903b-c73f019f73a0" />
+  <Project Path="CompanyEmployes/CompanyEmployes.csproj" />
+  <Project Path="Contracts/Contracts.csproj" Id="c55e303b-4123-4300-a4dd-113ef490eb51" />
+  <Project Path="Entities/Entities.csproj" Id="0c141ef1-473b-4dd6-b9d8-d81acc7307c4" />
+  <Project Path="LoggerService/LoggerService.csproj" Id="7f90657b-c13c-46ce-96c9-f6a2f0a77476" />
+  <Project Path="MiddlewareExample/MiddlewareExample.csproj" />
+  <Project Path="Repository/Repository.csproj" Id="40bd121e-b629-4a48-a089-d1439e30bc8d" />
+  <Project Path="Service.Contracts/Service.Contracts.csproj" Id="89c4153b-e259-425b-8fd3-f143d596874d" />
+  <Project Path="Service/Service.csproj" Id="63503b2e-1c2b-47d9-b153-0e22424dba2d" />
+</Solution>

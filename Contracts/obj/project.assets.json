@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Users\\Umayer Islam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj",
+      "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "F:\\Github\\CompanyEmployees\\Contracts\\obj\\",
+      "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj",
+      "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+      "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -52,15 +52,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj": {
-              "projectPath": "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj"
+            "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj"
             }
           }
         }

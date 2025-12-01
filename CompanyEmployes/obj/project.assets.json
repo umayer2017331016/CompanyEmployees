@@ -1240,6 +1240,9 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
@@ -1303,6 +1306,9 @@
       "Service.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Service.Contracts.dll": {}
         },
@@ -3681,11 +3687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\CompanyEmployes\\CompanyEmployes.csproj",
+      "projectUniqueName": "F:\\Github\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj",
       "projectName": "CompanyEmployes",
-      "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\CompanyEmployes\\CompanyEmployes.csproj",
+      "projectPath": "F:\\Github\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\CompanyEmployes\\obj\\",
+      "outputPath": "F:\\Github\\CompanyEmployees\\CompanyEmployes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3707,17 +3713,17 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
-              "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
+            "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+              "projectPath": "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
             },
-            "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\LoggerService\\LoggerService.csproj"
+            "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
             },
-            "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Repository\\Repository.csproj": {
-              "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Repository\\Repository.csproj"
+            "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj": {
+              "projectPath": "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj"
             },
-            "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service\\Service.csproj": {
-              "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service\\Service.csproj"
+            "F:\\Github\\CompanyEmployees\\Service\\Service.csproj": {
+              "projectPath": "F:\\Github\\CompanyEmployees\\Service\\Service.csproj"
             }
           }
         }

@@ -9,3 +9,15 @@ F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entiti
 F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\refint\Entities.dll
 F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\Entities.pdb
 F:\WebSoftware\CompanyEmployes\CompanyEmployes\Entities\obj\Debug\net10.0\ref\Entities.dll
+F:\Github\CompanyEmployees\Entities\bin\Debug\net10.0\Entities.deps.json
+F:\Github\CompanyEmployees\Entities\bin\Debug\net10.0\Entities.dll
+F:\Github\CompanyEmployees\Entities\bin\Debug\net10.0\Entities.pdb
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.AssemblyInfoInputs.cache
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.AssemblyInfo.cs
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.csproj.CoreCompileInputs.cache
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.sourcelink.json
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.dll
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\refint\Entities.dll
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\Entities.pdb
+F:\Github\CompanyEmployees\Entities\obj\Debug\net10.0\ref\Entities.dll

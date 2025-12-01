@@ -5,6 +5,9 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
@@ -12,9 +15,22 @@
           "bin/placeholder/Contracts.dll": {}
         }
       },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
+      },
       "Service.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Service.Contracts.dll": {}
         },
@@ -29,6 +45,11 @@
       "type": "project",
       "path": "../Contracts/Contracts.csproj",
       "msbuildProject": "../Contracts/Contracts.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     },
     "Service.Contracts/1.0.0": {
       "type": "project",
@@ -49,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service\\Service.csproj",
+      "projectUniqueName": "F:\\Github\\CompanyEmployees\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service\\Service.csproj",
+      "projectPath": "F:\\Github\\CompanyEmployees\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service\\obj\\",
+      "outputPath": "F:\\Github\\CompanyEmployees\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,11 +96,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Contracts\\Contracts.csproj": {
-              "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Contracts\\Contracts.csproj"
+            "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+              "projectPath": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj"
             },
-            "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "F:\\WebSoftware\\CompanyEmployes\\CompanyEmployes\\Service.Contracts\\Service.Contracts.csproj"
+            "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }

@@ -38,8 +38,6 @@ else
     //app.UseExceptionHandler("/Error");
     app.UseHsts(); // Strict-Transport-Security header
 }
-
-
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

@@ -15,6 +15,8 @@ namespace Contracts
     public interface ICompanyRepository
     {
         IEnumerable<Company> GetAllCompanies(bool trackChanges);
+        Company GetCompany(Guid companyId, bool trackChanges);
+
     }
 }
 
@@ -22,5 +24,7 @@ namespace Contracts
 {
     public interface IEmployeeRepository
     {
+        IEnumerable<Employee> GetEmployees(Guid companyId, bool trackChanges);
+        Employee GetEmployee(Guid companyId, Guid id, bool trackChanges);
     }
 }

@@ -11,5 +11,7 @@ public class MappingProfile : Profile
                     $"{x.Address} {x.Country}"
                 )
             );
+        CreateMap<Employee, EmployeeDto>();
+
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Contracts;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 internal sealed class CompanyRepository : RepositoryBase<Company>, ICompanyRepository
 {
@@ -10,4 +11,8 @@ internal sealed class CompanyRepository : RepositoryBase<Company>, ICompanyRepos
     FindAll(trackChanges)
     .OrderBy(c => c.Name)
     .ToList();
+    public Company GetCompany(Guid companyId, bool trackChanges) =>
+ FindByCondition(c => c.Id.Equals(companyId), trackChanges)
+ .SingleOrDefault();
+
 }

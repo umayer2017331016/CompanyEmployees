@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4bYxFOWs5hw=",
+  "dgSpecHash": "35c51rYq3Rk=",
   "success": true,
-  "projectFilePath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+  "projectFilePath": "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Umayer Islam\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Umayer Islam\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512"
   ],
   "logs": []
 }

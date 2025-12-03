@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Github\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj": {}
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj": {}
   },
   "projects": {
-    "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
         "projectName": "CompanyEmployees.Presentation",
-        "projectPath": "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
           }
@@ -497,20 +496,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj",
         "projectName": "CompanyEmployes",
-        "projectPath": "F:\\Github\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\CompanyEmployes\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployes\\CompanyEmployes.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -519,24 +518,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
               },
-              "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
               },
-              "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Repository\\Repository.csproj"
               },
-              "F:\\Github\\CompanyEmployees\\Service\\Service.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Service\\Service.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service\\Service.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service\\Service.csproj"
               }
             }
           }
@@ -1009,20 +1007,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\Contracts\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1031,15 +1029,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -1353,20 +1350,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\Entities\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1375,7 +1372,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -1693,20 +1689,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "F:\\Github\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\LoggerService\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -1715,15 +1711,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -2043,20 +2038,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "F:\\Github\\CompanyEmployees\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\Repository\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2065,18 +2060,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj"
               },
-              "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Entities\\Entities.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -2396,20 +2390,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
         "projectName": "Service.Contracts",
-        "projectPath": "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\Service.Contracts\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2418,15 +2412,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\Shared\\Shared.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Shared\\Shared.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -2740,20 +2733,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\Service\\Service.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "F:\\Github\\CompanyEmployees\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\Service\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -2762,18 +2755,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Contracts\\Contracts.csproj"
               },
-              "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "F:\\Github\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
           }
@@ -3093,20 +3085,20 @@
         }
       }
     },
-    "F:\\Github\\CompanyEmployees\\Shared\\Shared.csproj": {
+    "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Github\\CompanyEmployees\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "F:\\Github\\CompanyEmployees\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "F:\\Github\\CompanyEmployees\\Shared\\obj\\",
+        "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Umayer Islam\\.nuget\\packages\\",
+        "outputPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Umayer Islam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -3115,7 +3107,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

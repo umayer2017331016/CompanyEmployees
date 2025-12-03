@@ -16,6 +16,8 @@ namespace Contracts
     {
         IEnumerable<Company> GetAllCompanies(bool trackChanges);
         Company GetCompany(Guid companyId, bool trackChanges);
+        void CreateCompany(Company company);
+
 
     }
 }
@@ -26,5 +28,6 @@ namespace Contracts
     {
         IEnumerable<Employee> GetEmployees(Guid companyId, bool trackChanges);
         Employee GetEmployee(Guid companyId, Guid id, bool trackChanges);
+        void CreateEmployeeForCompany(Guid companyId, Employee employee);
     }
 }

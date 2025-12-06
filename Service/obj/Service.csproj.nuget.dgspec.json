@@ -714,6 +714,9 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
+              "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
               "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj": {
                 "projectPath": "D:\\Umayer\\WebPracctice\\CompanyEmployees\\Shared\\Shared.csproj"
               }

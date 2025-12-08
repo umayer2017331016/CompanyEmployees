@@ -14,10 +14,10 @@ namespace Contracts
 {
     public interface ICompanyRepository
     {
-        IEnumerable<Company> GetAllCompanies(bool trackChanges);
-        Company GetCompany(Guid companyId, bool trackChanges);
+        Task<IEnumerable<Company>> GetAllCompanies(bool trackChanges);
+        Task<Company> GetCompany(Guid companyId, bool trackChanges);
         void CreateCompany(Company company);
-        IEnumerable<Company> GetByIds(IEnumerable<Guid> ids, bool trackChanges);
+        Task<IEnumerable<Company>> GetByIds(IEnumerable<Guid> ids, bool trackChanges);
         void DeleteCompany(Company company);
 
 
@@ -29,8 +29,8 @@ namespace Contracts
 {
     public interface IEmployeeRepository
     {
-        IEnumerable<Employee> GetEmployees(Guid companyId, bool trackChanges);
-        Employee GetEmployee(Guid companyId, Guid id, bool trackChanges);
+        Task<IEnumerable<Employee>> GetEmployees(Guid companyId, bool trackChanges);
+        Task<Employee> GetEmployee(Guid companyId, Guid id, bool trackChanges);
         void CreateEmployeeForCompany(Guid companyId, Employee employee);
 
         void DeleteEmployee(Employee employee);

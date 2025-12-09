@@ -1,3 +1,4 @@
+using CompanyEmployees.Presentation.ActionFilters;
 using CompanyEmployes.Extensions;
 using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
@@ -27,7 +28,7 @@ builder.Services.ConfigureSqlContext(builder.Configuration);
 
 builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
-
+builder.Services.AddScoped<ValidationFilterAttribute>();
 
 builder.Services.AddControllers();
 
